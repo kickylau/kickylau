@@ -15,6 +15,7 @@
 *  SQLAlchemy
 *  Node.js
 *  Express.js
+*  PUG.js
 *  Docker
 *  CSS
 *  Git
