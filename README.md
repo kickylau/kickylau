@@ -1,7 +1,3 @@
-## Hi there 👋 My name is Kicky!
-
-✨ I am a Full-Stack Software Developer with Customer Success and Non-Profit background. A people person with strong interpersonal skills and customer/user focus. Also experienced in end-to-end product and project delivery, account management and relationship building. ✨ 
-
 ### Skill Sets that I have:
 
 *  React
@@ -19,6 +15,4 @@
 *  Docker
 *  CSS
 *  Git
-*  Heroku. 
-
-.. and more! 
+*  Heroku
